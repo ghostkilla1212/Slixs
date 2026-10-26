@@ -1,0 +1,13 @@
+.searchbar input {
+    background-color: black; /*hintergrund frabe schwarz*/
+    border: 2px solid white; /*rand ausen weis*/
+}
+
+.searchbar button {
+    background: none; /*hintergrund kiens*/
+    border: none; /*rand keins*/
+}
+
+.searchbar img {
+    width: 30px; /*breite 30px kleiner*/
+}
