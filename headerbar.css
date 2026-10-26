@@ -1,0 +1,8 @@
+.headerbar {
+    background-color: rgb(29, 27, 27); /*hintergrund frabe des headders*/
+    position: absolute; /*position absolute*/
+    top: 0%; /*damit es oben an der ecke klebt und nicht runtergeht*/
+    left: 0%; /*damit es links in der ecke bleibt*/
+    width: 100%; /*breite des gesamten headers*/
+    height: 12%; /*gröse des headers*/
+}
