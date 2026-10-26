@@ -1,0 +1,13 @@
+.btn-container {
+   
+}
+
+.btn-icons {
+    background: none; /*hintergrund keins*/
+    border: none; /*rand keins*/
+    cursor: pointer;
+}
+
+.btn-container img {
+    width: 50px;
+}
