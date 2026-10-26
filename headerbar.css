@@ -6,3 +6,10 @@
     width: 100%; /*breite des gesamten headers*/
     height: 12%; /*gröse des headers*/
 }
+
+.text-logo {
+    color: white; /*frabe weis*/
+    font-size: 300%; /*gröse 300%*/
+    margin-left: 2%; /*rand links 2%*/
+     font-family: "Engagement", cursive;
+}
