@@ -17,6 +17,9 @@
     background: none; /*hintergrund kiens*/
     border: none; /*rand keins*/
     cursor: pointer;
+    position: absolute;
+    top: 10%; /*10 mitte*/
+    right: 1%;
 }
 
 .searchbar img {
