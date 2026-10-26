@@ -1,11 +1,19 @@
+.searchbar {
+    
+}
+
 .searchbar input {
     background-color: black; /*hintergrund frabe schwarz*/
     border: 2px solid white; /*rand ausen weis*/
+    color: white; /*textfrabe weis*/
+    padding: 1%; /*innenabstand 1%*/
+    width: 600px; /*600px breite*/
 }
 
 .searchbar button {
     background: none; /*hintergrund kiens*/
     border: none; /*rand keins*/
+    cursor: pointer;
 }
 
 .searchbar img {
