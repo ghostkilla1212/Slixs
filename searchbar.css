@@ -1,13 +1,16 @@
 .searchbar {
-    
+    position: absolute;
+    top: 25%;
+    margin-left: 30%;
 }
 
 .searchbar input {
     background-color: black; /*hintergrund frabe schwarz*/
     border: 2px solid white; /*rand ausen weis*/
     color: white; /*textfrabe weis*/
-    padding: 1%; /*innenabstand 1%*/
+    padding: 2%; /*innenabstand 2%*/
     width: 600px; /*600px breite*/
+    border-radius: 12px;
 }
 
 .searchbar button {

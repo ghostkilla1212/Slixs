@@ -9,7 +9,9 @@
 
 .text-logo {
     color: white; /*frabe weis*/
-    font-size: 300%; /*gröse 300%*/
+    font-size: 410%; /*gröse 410%*/
     margin-left: 2%; /*rand links 2%*/
+    position: relative;
+    top: -20%; /*20% nach oben*/
      font-family: "Engagement", cursive;
 }
