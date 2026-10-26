@@ -2,7 +2,7 @@
     display: flex; /*buttons nebenaniander*/
     gap: 15px; /*abstand zwischen den buttons*/
     position: absolute;
-    top: 20px; /*abstand von oberen rand*/
+    top: 38px; /*unten 25px*/
     right: 20px; /*abstand von rechten rand*/
 }
 
