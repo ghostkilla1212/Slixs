@@ -2,3 +2,13 @@ body {
     background-color: black;
 }
 
+.list-container {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+  min-height: 500px;
+}
+
+.btn-list {
+    background-color: red;
+}
