@@ -16,8 +16,15 @@ body {
     background: none;
     border: none;
     font-size: 120%;
+     transition: background-color 0.3s ease; 
+}
+
+.btn-list:hover {
+    background-color: gray;
+    border-radius: 12px;
 }
 .btn-list a {
     color: white;
     text-decoration: none;
 }
+
