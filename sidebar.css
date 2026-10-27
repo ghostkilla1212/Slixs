@@ -1,0 +1,16 @@
+.sidebar {
+    position: fixed; /*fixiert die position*/
+    top: 13%; /*13% nach unten*/
+    left: 0; /*damit es nicht nach links geht*/
+    width: 15%; /*breite 15%*/
+    height: 60%; /*grose nach unten*/
+    background: none; /*hintergrund keins*/
+    border-right: 1px solid white; /*rand rechts*/
+    border-bottom: 1px solid white; /*rand unten*/
+}
+
+.sidebar-text {
+    color: white; /*frabe weis*/
+    font-size: 180%; /*gröse 180%*/
+    margin-left: 4%; /*rand links 4%*/
+} 

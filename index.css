@@ -2,12 +2,3 @@ body {
     background-color: black;
 }
 
-.sidebar {
-    position: fixed; /*fixiert die position*/
-    top: 13%; /*13% nach unten*/
-    left: 0; /*damit es nicht nach links geht*/
-    width: 15%; /*breite 15%*/
-    height: 60%; /*grose nach unten*/
-    background: none; /*hintergrund keins*/
-    border-right: 1px solid white;
-}
