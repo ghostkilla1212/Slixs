@@ -6,11 +6,17 @@ body {
     justify-content: center;
     display: flex;
     align-items: center;
-  min-height: 500px;
-  margin-top: -125px;
+    min-height: 500px;
+    margin-top: -110px;
 }
+
 
 .btn-list {
     background: none;
     border: none;
+    font-size: 120%;
+}
+.btn-list a {
+    color: white;
+    text-decoration: none;
 }
