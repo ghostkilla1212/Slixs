@@ -13,4 +13,23 @@
     font-size: 180%; /*gröse 180%*/
     margin-left: 4%; /*rand links 4%*/
     font-family: "Nabla", system-ui;
-} 
+}
+
+
+.sidebar-button {
+    display: flex; /*buttons unterainander*/
+      align-items: center; /* vertikal mittig */
+    gap: 10px; /* Abstand zwischen Icon und Text */
+    background: none; /*hintergrund keins*/
+    border: none; /*rand keins*/
+    margin-bottom: 20px; /*zwischen abstand 20px*/
+    border-radius: 10px;
+}
+
+.sidebar span {
+    color: white; /*farbe weis*/
+}
+
+.sidebar img {
+    width: 25px; /*breite 20px*/
+}
