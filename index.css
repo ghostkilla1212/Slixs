@@ -7,8 +7,10 @@ body {
     display: flex;
     align-items: center;
   min-height: 500px;
+  margin-top: -125px;
 }
 
 .btn-list {
-    background-color: red;
+    background: none;
+    border: none;
 }
