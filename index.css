@@ -39,3 +39,12 @@ body {
     margin-top: -200px;
 }
 
+.welcome-box h1 {
+    color: white;
+    text-align: center;
+}
+
+.welcome-box p {
+    color: white;
+}
+
