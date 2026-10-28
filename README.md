@@ -3,4 +3,6 @@
 
 <h2>hosting provider</h2>
 <P>https://vercel.com/</P>
-<P>api https://fakestoreapi.com/</P>
+
+<h3>api</h3>
+<P>https://fakestoreapi.com/</P>
