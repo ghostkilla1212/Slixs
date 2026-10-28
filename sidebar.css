@@ -1,5 +1,5 @@
 .sidebar {
-    position: fixed; /*fixiert die position*/
+    position: absolute; /*absolute die position*/
     top: 13%; /*13% nach unten*/
     left: 0; /*damit es nicht nach links geht*/
     width: 15%; /*breite 15%*/
