@@ -9,7 +9,7 @@ fetch('https://fakestoreapi.com/products') /*fragt den server nach produkten ab*
 productGrid.innerHTML += `
     <div class="product-card">
         <img src="${product.image}" alt="${product.title}">
-        <h3>${product.title}</h3>
+        <h2>${product.title}</h2>
         <p>${product.price} €</p>
     </div>
 `;
