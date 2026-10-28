@@ -6,7 +6,13 @@ fetch('https://fakestoreapi.com/products') /*fragt den server nach produkten ab*
 
 
     products.forEach(product => {
-        product
+productGrid.innerHTML += `
+    <div class="product-card">
+        <img src="${product.image}" alt="${product.title}">
+        <h3>${product.title}</h3>
+        <p>${product.price} €</p>
+    </div>
+`;
     })
     console.log(products)
 })
