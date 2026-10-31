@@ -1,5 +1,5 @@
-const feedbackYes = document.querySelectorAll("feedbackYes-button")
-const feedbackNo = document.querySelectorAll("feedbackNo-button")
+const feedbackYes = document.querySelectorAll(".feedback-btn")
+const feedbackNo = document.querySelectorAll(".feedback-btn")
 
 
 feedbackYes.forEach(button => {
