@@ -49,3 +49,7 @@ details {
     color: white;
     padding: 3%;
 }
+
+.feedback-btn {
+    background-color: green;
+}
