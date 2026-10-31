@@ -10,6 +10,7 @@ body {
     width: 100%; /*breite des gesamten headers*/
     height: 12%; /*gröse des headers*/
     border-bottom: 1px solid white; /*linie unten*/
+    z-index: 1000%;
 }
 
 .logo-heading {
@@ -17,5 +18,19 @@ body {
     margin-left: 1%;
     font-size: 230%;
     font-family: "Kaushan Script", cursive;
+}
+
+.heading {
+    color: white;
+    position: absolute;
+    top: 10%;
+    margin-left: 20%;
+    font-size: 350%;
+}
+
+.subtitle {
+    color: gray;
+    position: absolute;
+    top: 35%;
 }
 
