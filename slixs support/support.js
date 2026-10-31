@@ -1,9 +1,9 @@
-const feedbackYes = document.querySelectorAll("feedbackYes")
-const feedbackNo = document.getElementById("feedbackNo")
+const feedbackYes = document.querySelectorAll("feedbackYes-button")
+const feedbackNo = document.querySelectorAll("feedbackNo-button")
 
 
 feedbackYes.forEach(button => {
-feedbackYes.addEventListener("click", () => {
+button.querySelectorAll("click", () => {
     alert ("Feedback has been send")
 })
 })
