@@ -2,21 +2,20 @@ body {
     background-color: black;
 }
 
-.heading {
-    color: white;
-    text-align: center;
-    font-size: 260%;
-     font-family: "Cantarell", sans-serif;
-     position: absolute;
-     top: 30%;
-     margin-left: 1%;
+.headerbar {
+    background: none; /*hintergrund frabe des headders*/
+    position: absolute; /*position absolute*/
+    top: 0%; /*damit es oben an der ecke klebt und nicht runtergeht*/
+    left: 0%; /*damit es links in der ecke bleibt*/
+    width: 100%; /*breite des gesamten headers*/
+    height: 12%; /*gröse des headers*/
+    border-bottom: 1px solid white; /*linie unten*/
 }
 
-.support-image {
-    height: 300px;
-    position: absolute;
-    left: 60%;
-    top: 40%;
-    transform: translateY(-50%);
-    border-radius: 12px;
+.logo-heading {
+    color: white;
+    margin-left: 1%;
+    font-size: 230%;
+    font-family: "Kaushan Script", cursive;
 }
+
