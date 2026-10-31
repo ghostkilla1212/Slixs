@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+.heading {
+    color: white;
+    text-align: center;
+    font-size: 260%;
+     font-family: "Cantarell", sans-serif;
+     position: absolute;
+     top: 30%;
+     margin-left: 1%;
+}
+
+.support-image {
+    height: 300px;
+    position: absolute;
+    left: 60%;
+    top: 40%;
+    transform: translateY(-50%);
+    border-radius: 12px;
+}
