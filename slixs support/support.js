@@ -3,7 +3,7 @@ const feedbackNo = document.querySelectorAll("feedbackNo-button")
 
 
 feedbackYes.forEach(button => {
-button.querySelectorAll("click", () => {
+button.addEventListener("click", () => {
     alert ("Feedback has been send")
 })
 })
